@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "nama": "Tahu Crispy",
+      "img_src": "https://i.ibb.co.com/Cpq6r4RT/Gambar-Menu-11.png",
+      "harga": 8000,
+      "deskripsi": "Tahu crispy dengan saus sambal."
+    },
+    {
+      "id": 2,
+      "nama": "Pisang Goreng",
+      "img_src": "https://i.ibb.co.com/Cpq6r4RT/Gambar-Menu-11.png",
+      "harga": 7000,
+      "deskripsi": "Pisang goreng crispy dengan taburan gula."
+    }
+  ]
+  

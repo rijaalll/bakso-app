@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "nama": "Es Teh Manis",
+      "img_src": "https://i.ibb.co.com/Cpq6r4RT/Gambar-Menu-11.png",
+      "harga": 5000,
+      "deskripsi": "Es teh manis yang menyegarkan."
+    },
+    {
+      "id": 2,
+      "nama": "Es Jeruk",
+      "img_src": "https://i.ibb.co.com/Cpq6r4RT/Gambar-Menu-11.png",
+      "harga": 6000,
+      "deskripsi": "Es jeruk yang asam manis, segar."
+    }
+  ]
+  

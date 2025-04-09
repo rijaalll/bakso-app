@@ -1,0 +1,17 @@
+{
+    "NavbarApp": {
+        "header_title": {
+            "text_1": "Bakso",
+            "text_2": "Manis"
+        },
+        "child_title": {
+            "text": "Kayak Ranaa >..<"
+        },
+        "navbarPath": [
+            "/", 
+            "/food",
+            "/drink",
+            "/snack"
+        ]
+    }
+}

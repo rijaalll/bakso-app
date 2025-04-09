@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "nama": "Bakso Daging Sapi",
+      "img_src": "https://i.ibb.co.com/Cpq6r4RT/Gambar-Menu-11.png",
+      "harga": 15000,
+      "deskripsi": "Bakso dengan daging sapi pilihan, kenyal dan lezat."
+    },
+    {
+      "id": 2,
+      "nama": "Bakso Ayam",
+      "img_src": "https://i.ibb.co.com/Cpq6r4RT/Gambar-Menu-11.png",
+      "harga": 12000,
+      "deskripsi": "Bakso ayam dengan cita rasa gurih."
+    }
+  ]
+  
